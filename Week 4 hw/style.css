@@ -1,0 +1,87 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 30px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+
+nav ul li {
+	margin-right: 20px;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+main section {
+	margin: 30px;
+}
+
+main h2 {
+	font-size: 36px;
+	padding: 30px;
+}
+
+main h3 {
+	padding: 20px;
+	margin: 20px;
+	font-size: 20px;
+}
+
+main ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+main li {
+	flex-basis: 20px;
+	margin-bottom: 20px;
+}
+
+main li a img {
+	width: 100%;
+	height: auto;
+}
+
+
+
+/*main form {
+	display: flex;
+	flex-direction: column;
+	margin-top: 20px;
+}
+
+main label {
+	margin-top: 10px;
+}*/
+
+/*main input, main textarea {
+	margin-bottom: 10px;
+	padding: 5px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+main input[type="submit"] {
+	background-color: #333;
+	color: #fff;*/
